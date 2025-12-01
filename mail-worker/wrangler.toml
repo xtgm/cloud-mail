@@ -1,4 +1,4 @@
-name = "xt-mail"
+name = "mail-001"
 main = "src/index.js"
 compatibility_date = "2025-06-04"
 keep_vars = true
